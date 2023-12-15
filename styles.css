@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+.main{
+	  position: relative;
+      margin: 20px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+}
+h1{
+	margin: 20px;
+}
+  .quote-container {
+      position: relative;
+      margin: 20px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    /* Style for the author name */
+    .author {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      font-style: italic;
+	  padding-right:2px;
+      color: #555;
+    }
